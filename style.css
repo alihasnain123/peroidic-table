@@ -1,0 +1,66 @@
+.prd{
+	border: 1px solid #000; 
+	border-radius: 8px;
+	/* text-align: center; */
+	
+
+}/* 
+.prd1{
+	border: 1px solid rgb(175, 58, 58);
+} */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+table{
+	margin: auto;	
+	/* border: 1px solid green; */
+	
+	padding: 20px;
+}
+
+
+tr td{
+	text-align: center;
+	padding: 10px 30px 10px 30px;
+	border-radius: 2px;
+	
+	
+	
+}
+
+tr td:hover{
+	background-color: springgreen;
+}
+h1{
+	text-align: center;
+	background-color: tomato;
+	width: 80%;
+	height: 59px;
+	margin:40px auto;
+	font-size: 50px;
+	border-radius: 30px;
+
+}
+/* .box{
+	border: 1px solid red;
+	width: 1440px;
+	margin: auto;
+} */
+
+.two
+{
+	margin-top: 15px;
+	/* width: 70%; */
+	/* box-shadow: -5px -5px 10px 2px  red; */
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.green{
+	color: rgb(10, 199, 10);
+}
